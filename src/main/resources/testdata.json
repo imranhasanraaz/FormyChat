@@ -1,0 +1,20 @@
+{
+    "pluginName" : "FormyChat",
+    "ultimatePluginName" : "FormyChat Ultimate",
+    "pluginLocation": "src/main/resources/social-contact-form-ultimate.zip",
+    "whatsappNumber" : "01734567808",
+    "presetMessage" : "I need Help",
+    "invalidNumberMessage" : "Invalid phone number",
+    "callToActionText" : "Contact Us",
+    "formTitle": "Contact via WhatsApp",
+    "submitButtonText" : "Send on WhatsApp",
+    "fontName" : "Montserrat",
+    "maximumIconSize" : "150px",
+    "whatsappURL" : "whatsapp.com",
+    "formData" : {
+        "name" : "Imran Hasan",
+        "email" : "imran@wppool.dev",
+        "number" : "01734567808",
+        "message" : "I am fine"
+    }
+}

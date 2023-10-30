@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="tests.TestFormyChat" />
+            <class name="tests.FrontendTest" />
+        </classes>
+    </test>
+</suite>
